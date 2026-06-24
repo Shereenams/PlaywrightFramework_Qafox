@@ -1,0 +1,10 @@
+Leta78@yahoo.com
+o_SuGi_1rfmp4sL
+[
+  {
+    email: 'Leta78@yahoo.com',
+    password: 'o_SuGi_1rfmp4sL',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!
