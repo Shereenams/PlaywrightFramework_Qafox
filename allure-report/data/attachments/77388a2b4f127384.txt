@@ -1,0 +1,10 @@
+Veronica_Green15@yahoo.com
+0Jewhugv09Hv_ED
+[
+  {
+    email: 'Veronica_Green15@yahoo.com',
+    password: '0Jewhugv09Hv_ED',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!
