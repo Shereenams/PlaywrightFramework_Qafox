@@ -1,0 +1,10 @@
+Mazie_Kerluke0@gmail.com
+xTLMoYAuv1mHW9p
+[
+  {
+    email: 'Mazie_Kerluke0@gmail.com',
+    password: 'xTLMoYAuv1mHW9p',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!
