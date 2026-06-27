@@ -1,0 +1,10 @@
+Gertrude_Legros48@hotmail.com
+W3sr8Nr2Yq85cok
+[
+  {
+    email: 'Gertrude_Legros48@hotmail.com',
+    password: 'W3sr8Nr2Yq85cok',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!
