@@ -1,0 +1,10 @@
+Gerard.Macejkovic@yahoo.com
+rIlhOEqvTdpcThK
+[
+  {
+    email: 'Gerard.Macejkovic@yahoo.com',
+    password: 'rIlhOEqvTdpcThK',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!

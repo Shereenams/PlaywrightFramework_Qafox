@@ -16,6 +16,10 @@ export class ReportUtil {
             path: 'screenshot.png',
             contentType: 'image/png',
         });
+        await testInfo.attach('log', {
+            body: stepName,
+            contentType: 'text/plain',
+        });
         })
         
 

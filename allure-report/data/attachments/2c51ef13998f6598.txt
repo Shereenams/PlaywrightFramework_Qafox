@@ -1,0 +1,10 @@
+Bradley.OConner16@gmail.com
+Z7IiDu7KkuirpyQ
+[
+  {
+    email: 'Bradley.OConner16@gmail.com',
+    password: 'Z7IiDu7KkuirpyQ',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!

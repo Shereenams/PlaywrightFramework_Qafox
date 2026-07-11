@@ -1,0 +1,10 @@
+Davon73@gmail.com
+kkJbr8x8trAOlOu
+[
+  {
+    email: 'Davon73@gmail.com',
+    password: 'kkJbr8x8trAOlOu',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!
