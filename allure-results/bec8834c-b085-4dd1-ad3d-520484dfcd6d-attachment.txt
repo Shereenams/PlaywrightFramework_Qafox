@@ -1,0 +1,10 @@
+Antoinette_Prosacco-Tromp27@hotmail.com
+YVVzdiMZLnceUEw
+[
+  {
+    email: 'Antoinette_Prosacco-Tromp27@hotmail.com',
+    password: 'YVVzdiMZLnceUEw',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!

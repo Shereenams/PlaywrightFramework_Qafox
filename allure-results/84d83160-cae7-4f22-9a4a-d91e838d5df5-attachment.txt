@@ -1,0 +1,10 @@
+Emmett.Bins@hotmail.com
+Nzk8rv46eD8tInI
+[
+  {
+    email: 'Emmett.Bins@hotmail.com',
+    password: 'Nzk8rv46eD8tInI',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!
