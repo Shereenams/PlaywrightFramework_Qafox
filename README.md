@@ -7,7 +7,7 @@ A scalable, maintainable end-to-end test automation framework built with **Playw
 - **Page Object Model (POM)** — clean separation between test logic and UI locators for easy maintenance
 - **csv-parse/sync** — data-driven testing support, reading test data directly from csv sheets
 - **ReportSteps Wrapper** — a `test.step()` wrapper for structured, readable step-by-step reporting
-- **Winston Logging** — centralized logging for debugging and traceability across test runs
+- **Winston Logging** — centralized logging for debugging and traceability across test runs -Yet to add
 - **Custom HTML Reporting** — enhanced, readable test reports beyond the default Playwright reporter
 - **CI/CD Integration** — automated test execution via GitHub Actions on every push/PR
 
@@ -18,7 +18,7 @@ A scalable, maintainable end-to-end test automation framework built with **Playw
 | Playwright | Browser automation & test runner |
 | JavaScript | Core language |
 | Winston | Logging |
-| ExcelJS / xlsx | Test data management |
+| CSV | Test data management |
 | GitHub Actions | CI/CD pipeline |
 
 ## Project Structure
