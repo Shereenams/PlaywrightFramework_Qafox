@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:master":"npx playwright test --grep @smoke"
+    "test:master": "npx playwright test --grep @smoke"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +20,7 @@
     "@faker-js/faker": "^10.5.0",
     "csv-parse": "^7.0.0",
     "csv-writer": "^1.6.0",
+    "winston": "^3.19.0",
     "xlsx": "^0.18.5"
   }
 }

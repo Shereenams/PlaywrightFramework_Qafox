@@ -5,6 +5,7 @@ import { TestConfig } from '../test.config';
 import {RandomDataUtil} from '../utils/randomDataGenerator';
 import { RegisteredData } from '../utils/registeredData';
 import { ReportUtil } from '../reports/reportsUtil';
+import { logger } from '../reports/logging';
 
 
 let homePage:HomePage;
@@ -31,6 +32,7 @@ test.afterEach(async ({page})=>{
 })
 
 test.describe('Account Registration Tests @s', () => {
+    logger.info('Starting Account Registration Tests');
     test('Verify Account Registration @smoke', async ({page},testInfo) => {
         await ReportUtil.logStepWithScreenshot(page,testInfo,"Home Page ", async ()=>{
             await expect(homePage.IsHomePageDisplayed()).toBeTruthy();

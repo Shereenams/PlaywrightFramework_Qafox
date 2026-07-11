@@ -1,0 +1,149 @@
+  pw:api => browserType.launch started +0ms
+  pw:api <= browserType.launch succeeded +1s
+  pw:api => browser.newContext started +9ms
+  pw:api <= browser.newContext succeeded +80ms
+  pw:api => browserContext.newPage started +9ms
+  pw:api <= browserContext.newPage succeeded +224ms
+  pw:api => page.goto started +3ms
+  pw:api navigating to "https://tutorialsninja.com/demo/", waiting until "load" +31ms
+  pw:api   "commit" event fired +972ms
+  pw:api   navigated to "https://tutorialsninja.com/demo/" +1ms
+  pw:api   "domcontentloaded" event fired +927ms
+  pw:api   "load" event fired +405ms
+  pw:api <= page.goto succeeded +40ms
+  pw:api => page.title started +4ms
+  pw:api => page.screenshot started +7ms
+  pw:api <= page.title succeeded +5ms
+  pw:api taking page screenshot +4ms
+  pw:api waiting for fonts to load... +9ms
+  pw:api fonts loaded +5ms
+  pw:api <= page.screenshot succeeded +77ms
+  pw:api => locator.click started +11ms
+  pw:api waiting for locator('span:has-text("My Account")') +5ms
+  pw:api   locator resolved to <span class="hidden-xs hidden-sm hidden-md">My Account</span> +31ms
+  pw:api attempting click action +2ms
+  pw:api   waiting for element to be visible, enabled and stable +1ms
+  pw:api   element is visible, enabled and stable +24ms
+  pw:api   scrolling into view if needed +0ms
+  pw:api   done scrolling +2ms
+  pw:api   performing click action +14ms
+  pw:api   click action done +64ms
+  pw:api   waiting for scheduled navigations to finish +0ms
+  pw:api   navigations have finished +3ms
+  pw:api <= locator.click succeeded +3ms
+  pw:api => locator.click started +2ms
+  pw:api waiting for getByRole('link', { name: 'Register' }) +5ms
+  pw:api   locator resolved to <a href="https://tutorialsninja.com/demo/index.php?route=account/register">Register</a> +20ms
+  pw:api attempting click action +2ms
+  pw:api   waiting for element to be visible, enabled and stable +0ms
+  pw:api   element is visible, enabled and stable +32ms
+  pw:api   scrolling into view if needed +0ms
+  pw:api   done scrolling +1ms
+  pw:api   performing click action +5ms
+  pw:api   click action done +17ms
+  pw:api   waiting for scheduled navigations to finish +0ms
+  pw:api   "commit" event fired +255ms
+  pw:api   navigated to "https://tutorialsninja.com/demo/index.php?route=account/register" +0ms
+  pw:api   navigated to "https://tutorialsninja.com/demo/index.php?route=account/register" +0ms
+  pw:api   navigations have finished +8ms
+  pw:api <= locator.click succeeded +16ms
+  pw:api => locator.fill started +3ms
+  pw:api waiting for getByPlaceholder('First Name') +3ms
+  pw:api   "domcontentloaded" event fired +341ms
+  pw:api   "load" event fired +1ms
+  pw:api   locator resolved to <input value="" type="text" name="firstname" id="input-firstname" class="form-control" placeholder="First Name"/> +5ms
+  pw:api   fill("Alexandria") +2ms
+  pw:api attempting fill action +0ms
+  pw:api   waiting for element to be visible, enabled and editable +14ms
+  pw:api <= locator.fill succeeded +64ms
+  pw:api => locator.fill started +2ms
+  pw:api waiting for getByPlaceholder('Last Name') +6ms
+  pw:api   locator resolved to <input value="" type="text" name="lastname" id="input-lastname" class="form-control" placeholder="Last Name"/> +4ms
+  pw:api   fill("Kutch-Morissette") +2ms
+  pw:api attempting fill action +0ms
+  pw:api   waiting for element to be visible, enabled and editable +7ms
+  pw:api <= locator.fill succeeded +15ms
+  pw:api => locator.fill started +2ms
+  pw:api waiting for getByPlaceholder('E-Mail') +4ms
+  pw:api   locator resolved to <input value="" type="email" name="email" id="input-email" placeholder="E-Mail" class="form-control"/> +5ms
+  pw:api   fill("Edward29@gmail.com") +2ms
+  pw:api attempting fill action +0ms
+  pw:api   waiting for element to be visible, enabled and editable +4ms
+  pw:api <= locator.fill succeeded +11ms
+  pw:api => locator.fill started +3ms
+  pw:api waiting for locator('[name="password"]') +4ms
+  pw:api   locator resolved to <input value="" type="password" name="password" id="input-password" class="form-control" placeholder="Password"/> +7ms
+  pw:api   fill("rTjqgXJD3dCFvWT") +3ms
+  pw:api attempting fill action +0ms
+  pw:api   waiting for element to be visible, enabled and editable +7ms
+  pw:api <= locator.fill succeeded +9ms
+  pw:api => locator.fill started +1ms
+  pw:api waiting for locator('[name="confirm"]') +5ms
+  pw:api   locator resolved to <input value="" name="confirm" type="password" id="input-confirm" class="form-control" placeholder="Password Confirm"/> +5ms
+  pw:api   fill("rTjqgXJD3dCFvWT") +1ms
+  pw:api attempting fill action +0ms
+  pw:api   waiting for element to be visible, enabled and editable +5ms
+  pw:api <= locator.fill succeeded +11ms
+  pw:api => locator.fill started +1ms
+  pw:api waiting for getByPlaceholder('Telephone') +7ms
+  pw:api   locator resolved to <input value="" type="tel" name="telephone" id="input-telephone" class="form-control" placeholder="Telephone"/> +4ms
+  pw:api   fill("442-484-7238 x92525") +2ms
+  pw:api attempting fill action +0ms
+  pw:api   waiting for element to be visible, enabled and editable +6ms
+  pw:api <= locator.fill succeeded +11ms
+  pw:api => locator.check started +2ms
+  pw:api waiting for locator('[name="agree"]') +5ms
+  pw:api   locator resolved to <input value="1" name="agree" type="checkbox"/> +5ms
+  pw:api attempting click action +6ms
+  pw:api   waiting for element to be visible, enabled and stable +0ms
+  pw:api   element is visible, enabled and stable +25ms
+  pw:api   scrolling into view if needed +0ms
+  pw:api   done scrolling +1ms
+  pw:api   performing click action +7ms
+  pw:api   click action done +11ms
+  pw:api   waiting for scheduled navigations to finish +0ms
+  pw:api   navigations have finished +0ms
+  pw:api <= locator.check succeeded +10ms
+  pw:api => page.screenshot started +2ms
+  pw:api taking page screenshot +5ms
+  pw:api waiting for fonts to load... +2ms
+  pw:api fonts loaded +1ms
+  pw:api <= page.screenshot succeeded +63ms
+  pw:api => locator.click started +6ms
+  pw:api waiting for getByRole('button', { name: 'Continue' }) +8ms
+  pw:api   locator resolved to <input type="submit" value="Continue" class="btn btn-primary"/> +7ms
+  pw:api attempting click action +1ms
+  pw:api   waiting for element to be visible, enabled and stable +1ms
+  pw:api   element is visible, enabled and stable +8ms
+  pw:api   scrolling into view if needed +0ms
+  pw:api   done scrolling +1ms
+  pw:api   performing click action +5ms
+  pw:api   click action done +9ms
+  pw:api   waiting for scheduled navigations to finish +0ms
+  pw:api   "commit" event fired +2s
+  pw:api   navigated to "https://tutorialsninja.com/demo/index.php?route=account/success" +0ms
+  pw:api   navigated to "https://tutorialsninja.com/demo/index.php?route=account/success" +0ms
+  pw:api   navigations have finished +0ms
+  pw:api <= locator.click succeeded +1ms
+  pw:api => locator.waitFor started +2ms
+  pw:api => page.screenshot started +2ms
+  pw:api waiting for getByRole('heading', { name: 'Your Account Has Been Created!' }) to be visible +1ms
+  pw:api taking page screenshot +1ms
+  pw:api waiting for fonts to load... +1ms
+  pw:api fonts loaded +0ms
+  pw:api   "domcontentloaded" event fired +11ms
+  pw:api   "load" event fired +0ms
+  pw:api   locator resolved to visible <h1>Your Account Has Been Created!</h1> +25ms
+  pw:api <= locator.waitFor succeeded +10ms
+  pw:api => locator.textContent started +2ms
+  pw:api waiting for getByRole('heading', { name: 'Your Account Has Been Created!' }) +28ms
+  pw:api   locator resolved to <h1>Your Account Has Been Created!</h1> +6ms
+  pw:api <= page.screenshot succeeded +4ms
+  pw:api <= locator.textContent succeeded +4ms
+  pw:api taking page screenshot +6ms
+  pw:api waiting for fonts to load... +3ms
+  pw:api fonts loaded +2ms
+  pw:api => page.close started +39ms
+  pw:api <= page.close succeeded +120ms
+  pw:api => browserContext.close started +140ms
+  pw:api <= browserContext.close succeeded +18ms

@@ -1,0 +1,10 @@
+Jerald7@yahoo.com
+k345oxBTqTjmk8I
+[
+  {
+    email: 'Jerald7@yahoo.com',
+    password: 'k345oxBTqTjmk8I',
+    status: 'success'
+  }
+]
+Faker data written to CSV successfully!
